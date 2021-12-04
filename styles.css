@@ -7,3 +7,6 @@ body {
 .container {
   border: 1px solid rgba(0, 0, 0, 0.5);
 }
+img {
+  width: 52px auto;
+}
